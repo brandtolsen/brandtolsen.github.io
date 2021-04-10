@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "quote": "Har du ikke en anden bluse, du kan tage på?",
+      "author": "Casper Christensen",
+      "saeson": "5",
+      "afsnit": "7",
+      "titel": "Hør nu efter Frank!"
+    },
+    {
+      "quote": "Du mente den dumme og den liderlige klovn",
+      "author": "Frank Hvam",
+      "id": 2,
+      "saeson": "3",
+      "afsnit": "3",
+      "titel": "Pepino og Pepito"
+    },
+    {
+      "quote": "Små barnefingre ryger igennem toiletpapiret",
+      "author": "Frank Hvam",
+      "id": 3,
+      "saeson": "2",
+      "afsnit": "3",
+      "titel": "Don Ø affæren"
+    }
+  ]
+  
